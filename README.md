@@ -1,3 +1,5 @@
+<h2> <a href="https://googl-search.netlify.app/search"> Live link </a> </h2>
+
 # Goggl - The Most Unique Search Engine in the World
 
 ![Goggl](https://i.ibb.co/yQdYhtq/image.png)
